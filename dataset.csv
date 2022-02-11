@@ -1,0 +1,5 @@
+id, correlation, outcome
+Car speed, 0.5, Road friction
+Car speed, 0.1, Rain
+Road friction, 0.4, Rain
+Car, 1.0, Road
